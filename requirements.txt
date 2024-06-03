@@ -1,0 +1,9 @@
+transformers
+datasets
+ffmpeg
+torch>=2.0
+setuptools 
+wheel 
+ffmpeg-python
+musiclm-pytorch
+git+https://github.com/One-sixth/fairseq.git #fix bug with https://github.com/facebookresearch/fairseq/issues/5012
